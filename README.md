@@ -6,11 +6,12 @@ can see that information is still there.
 Getting started:
 
 ```
-clone repo
+clone repo:
+git@github.com:escalepion/stepped-journey.git
 ```
 
 ```
-cd repo
+cd stepped-journey
 ```
 
 ```
