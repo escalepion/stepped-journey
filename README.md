@@ -7,7 +7,7 @@ Getting started:
 
 ```
 clone repo:
-git@github.com:escalepion/stepped-journey.git
+git clone git@github.com:escalepion/stepped-journey.git
 ```
 
 ```
