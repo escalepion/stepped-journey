@@ -1,0 +1,17 @@
+//the purpose of this calculations is;
+//making 1rem equal to 10px
+html {
+  font-size: 62.5%;
+}
+
+//now 1rem = 10px
+
+//set the font size => 14px 
+body {
+  font-family: $body-default-font-family;
+  font-size: $base-font-size;
+}
+
+button, .clickable {
+  cursor: pointer;
+}

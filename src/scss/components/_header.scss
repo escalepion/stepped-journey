@@ -1,0 +1,25 @@
+header {
+  background-color: #353535;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.header-item {
+  text-align: center;
+
+  &:first-child {
+    margin-left: 15px;
+  }
+
+  &.active {
+    color: $active-color !important;
+  }
+
+  &.current {
+    color: #ffffff !important;
+  }
+
+  &.passive {
+    color: $passive-text-color;
+  }
+}
